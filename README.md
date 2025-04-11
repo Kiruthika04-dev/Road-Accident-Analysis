@@ -23,16 +23,13 @@ To analyze road accident data using distributed processing via PySpark. The goal
 - Geospatial visualizations (heatmaps for high-risk zones)
 
 ## 📁 Project Structure
-  road-accident-analysis/
-  ├── README.md
-  ├── data/
-  │   └── (place sample data or data description here)
-  ├── notebooks/
-  │   └── analysis.ipynb
-  ├── src/
-  │   └── pyspark_scripts.py
-  └── report/
-      └── x23189916_DIA_FINAL_REPORT.pdf
+
+- **`README.md`**: Overview of the project and instructions.
+- **`data/`**: Contains the dataset link and data description.
+- **`notebooks/`**: Jupyter notebooks for data analysis.
+- **`src/`**: Source code, including PySpark scripts.
+- **`report/`**: Final project report in PDF format.
+
 
 ## 🧠 Insights
 - Most accidents occur under fine weather conditions during daylight — suggesting driver error as a major factor.
