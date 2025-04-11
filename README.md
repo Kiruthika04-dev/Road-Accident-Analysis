@@ -1,5 +1,3 @@
-# Road-Accident-Analysis
-Analyzed UK road accident data using PySpark to identify patterns in accident severity, timing, weather conditions, and location. Leveraged Spark SQL and visualizations to uncover insights for improving road safety and traffic management.
 
 # Road Accident Analysis Using PySpark
 
@@ -35,8 +33,6 @@ To analyze road accident data using distributed processing via PySpark. The goal
   │   └── pyspark_scripts.py
   └── report/
       └── x23189916_DIA_FINAL_REPORT.pdf
-
-
 
 ## 🧠 Insights
 - Most accidents occur under fine weather conditions during daylight — suggesting driver error as a major factor.
