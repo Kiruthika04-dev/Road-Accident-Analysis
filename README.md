@@ -3,7 +3,7 @@
 
 🚦 **Course**: Data Intensive Architectures  
 🎓 **Institution**: National College of Ireland  
-📄 **Report**: [here](Report/x23189916_DIA_FINAL_REPORT.pdf)
+📄 **Report**: [Final Report DIA.pdf](Report/x23189916_DIA_FINAL_REPORT.pdf)
 ## 📌 Objective
 To analyze road accident data using distributed processing via PySpark. The goal was to uncover patterns and trends to help reduce accidents and improve public safety infrastructure.
 
