@@ -3,7 +3,6 @@
 
 🚦 **Course**: Data Intensive Architectures  
 🎓 **Institution**: National College of Ireland  
-👩‍💻 **Team**: Kiruthika Suresh  
 📄 **Report**: [Final Report (PDF)](./report/x23189916_DIA_FINAL_REPORT.pdf)
 
 ## 📌 Objective
@@ -27,7 +26,6 @@ To analyze road accident data using distributed processing via PySpark. The goal
 - **`README.md`**: Overview of the project and instructions.
 - **`data/`**: Contains the dataset link and data description.
 - **`notebooks/`**: Jupyter notebooks for data analysis.
-- **`src/`**: Source code, including PySpark scripts.
 - **`report/`**: Final project report in PDF format.
 
 
@@ -40,8 +38,4 @@ To analyze road accident data using distributed processing via PySpark. The goal
 - Include real-time data from traffic APIs
 - Integrate with external weather data sources
 - Build a prediction model for accident severity
-
-## 📎 Citation
-If using or referencing this work, please credit:
-`Kiruthika Suresh, National College of Ireland (2024)`
 
